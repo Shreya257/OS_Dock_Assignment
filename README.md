@@ -30,6 +30,7 @@ environment variable - POSTGRES_PASSWORD: example
 Note: Bring up both the containers on same user defined bridge network
 
 SCREENSHOTS:
+
 ![2020-12-30 (12)](https://user-images.githubusercontent.com/76741091/103317515-67403680-4a51-11eb-903a-9acb26969430.png)
 ![2020-12-30 (13)](https://user-images.githubusercontent.com/76741091/103317517-6909fa00-4a51-11eb-81a1-56563da29602.png)
 ![2020-12-30 (14)](https://user-images.githubusercontent.com/76741091/103317519-6a3b2700-4a51-11eb-8ac0-e3fb917d2bf6.png)
