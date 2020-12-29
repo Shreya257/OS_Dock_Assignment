@@ -28,5 +28,3 @@ Back-end image - postgres:10
 environment variable - POSTGRES_PASSWORD: example
 
 Note: Bring up both the containers on same user defined bridge network
-
-Screenshots:
