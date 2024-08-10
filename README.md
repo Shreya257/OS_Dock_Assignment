@@ -1,9 +1,6 @@
-# OS_Dock_Assignment | Sem 5
-Assignment2:
+# OS_Docker
 
-Question:
-
-Create a Docker-compose yaml for the following Multi-container app (Drupal postgres)
+A Docker-compose yaml for the following Multi-container app (Drupal postgres)
 
 contianer1 (front-end)
 
